@@ -5,7 +5,7 @@ Youtube Video: https://www.youtube.com/watch?v=u76Ndxeq7oA
 
 # 💳 ATM Simulation System (Python) 
 
-This is a basic **ATM simulation system** written in Python. The program allows users to simulate account creation and perform common banking operations such as depositing, withdrawing, viewing account details, and checking currency conversions.
+This is a basic **ATM simulation system** written in Python. The program allows users to simulate account creation and perform common banking operations such as depositing, withdrawing, viewing account details, and checking currency conversions. 
 
 ---
 
